@@ -12,6 +12,6 @@ Usage:
 
 Uninstall patch:
 
-1. Remove Cyberpunk2077.exe
+1. Remove "Cyberpunk2077.exe"
 
-2. Rename Cyberpunk2077.exe.bak to Cyberpunk2077.exe
+2. Rename "Cyberpunk2077.exe.smt-patcher-bak" to "Cyberpunk2077.exe"
