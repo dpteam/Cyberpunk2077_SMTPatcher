@@ -61,6 +61,10 @@ P.S. You should check if [viewing hidden files and folders is enabled](https://s
 
 # Troubleshooting & F.A.Q.
 
+* Question: Which version of Cyberpunk 2077 is need to patch?
+
+* Answer: Any (where pattern is working): 1.03/1.04 or newer, Steam/GoG/EGS and etc...
+
 * Question: Can't launch patcher!
 
 * Answer: Install .NET Framework 4.8
