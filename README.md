@@ -55,8 +55,9 @@ You may just press any key and this window is closes or close this window.
 1. Open directory <Cyberpunk 2077 Install Folder>\bin\x64
 2. Remove "Cyberpunk2077.exe"
 3. Rename "Cyberpunk2077.exe.smt-patcher-bak" to "Cyberpunk2077.exe"
-P.S. You should check if [viewing hidden files and folders is enabled](https://support.microsoft.com/en-us/help/4028316/windows-view-hidden-files-and-folders-in-windows-10)
 ```
+
+P.S. You should check if [viewing hidden files and folders is enabled](https://support.microsoft.com/en-us/help/4028316/windows-view-hidden-files-and-folders-in-windows-10)
 
 # Troubleshooting & F.A.Q.
 
