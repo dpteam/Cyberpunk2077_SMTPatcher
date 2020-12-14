@@ -67,7 +67,7 @@ P.S. You should check if [viewing hidden files and folders is enabled](https://s
 
 * Question: Patcher crashing, he is can't found a game exe.
 
-* Answer: Put file correctly!
+* Answer: Put file in correctly folder which specified in the documentation!
 
 # What's done
 
