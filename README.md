@@ -57,7 +57,7 @@ You may just press any key and this window is closes or close this window.
 3. Rename "Cyberpunk2077.exe.smt-patcher-bak" to "Cyberpunk2077.exe"
 ```
 
-P.S. You should check if [viewing hidden files and folders is enabled](https://support.microsoft.com/en-us/help/4028316/windows-view-hidden-files-and-folders-in-windows-10)
+P.S. You should check if [viewing hidden files and folders is enabled](https://support.microsoft.com/en-us/windows/show-hidden-files-0320fe58-0117-fd59-6851-9b7f9840fdb2)
 
 # Troubleshooting & F.A.Q.
 
