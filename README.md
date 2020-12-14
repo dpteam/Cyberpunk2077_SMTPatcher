@@ -74,5 +74,11 @@ P.S. You should check if [viewing hidden files and folders is enabled](https://s
  - [x] Pattern-based HEX patcher
    - [x] Old pattern tested
  - [x] New pattern, found by [UnhingedDoork](https://www.reddit.com/user/UnhingedDoork/)
-   - [ ] New pattern tested
+   - [x] New pattern tested
  - [ ] GUI and/or progressbar-based things...
+
+# Contributors and testers
+[DartPower](https://github.com/dartpower)  
+[CyberMan](https://github.com/cyb3rm4n)  
+[k1ryha1](https://vk.com/k1ryha1)  
+Srezi  
