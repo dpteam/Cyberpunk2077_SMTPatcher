@@ -77,7 +77,7 @@ P.S. You should check if [viewing hidden files and folders is enabled](https://s
    - [x] New pattern tested
  - [ ] GUI and/or progressbar-based things...
 
-# Contributors and testers
+# Contributors and Testers
 [DartPower](https://github.com/dartpower)  
 [CyberMan](https://github.com/cyb3rm4n)  
 [k1ryha1](https://vk.com/k1ryha1)  
