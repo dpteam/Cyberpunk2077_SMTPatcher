@@ -12,7 +12,7 @@ namespace Cyberpunk2077_SMTPatcher
 			string cp77exe = "Cyberpunk2077.exe";
 			if (File.Exists(cp77exe + ".smt-patcher-bak"))
 			{
-				Console.WriteLine("Backup found. Already patched?");
+				Console.WriteLine("A backup was found. Already patched?");
 				Console.ReadKey();
 			}
 			File.Copy(assemblyPath + Path.DirectorySeparatorChar + cp77exe, assemblyPath + Path.DirectorySeparatorChar + cp77exe + ".smt-patcher-bak", false);
@@ -20,8 +20,8 @@ namespace Cyberpunk2077_SMTPatcher
 			byte[] sourceBytes = StringHexToByteArray("753033C9B8010000000FA28BC8C1F908");
 			byte[] targetBytes = StringHexToByteArray("EB3033C9B8010000000FA28BC8C1F908");
 			BinaryReplace(cp77exe + ".smt-patcher-bak", sourceBytes, cp77exe, targetBytes);
-			Console.WriteLine("SMT Pattern found and replaced. Cyberpunk 2077 patched successful.");
-			Console.WriteLine("Press Any Key to Exit.");
+			Console.WriteLine("SMT Pattern found and replaced. Cyberpunk 2077 patched successfuly.");
+			Console.WriteLine("Press any key to exit.");
 			Console.ReadKey();
 		}
 

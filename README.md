@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/writed%20by-dartpower-blue.svg" >
+<img src="https://img.shields.io/badge/written%20by-dartpower-blue.svg" >
 
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" >
 
@@ -27,28 +27,26 @@
 # Usage
 
 ```
-1. Download a patcher archive in Releases tab
-2. Unpack a file named "Cyberpunk2077_SMTPatcher.exe" into <Cyberpunk 2077 Install Folder>\bin\x64
+1. Download the patcher archive from Releases tab
+2. Unpack the file named "Cyberpunk2077_SMTPatcher.exe" into <Cyberpunk 2077 Install Folder>\bin\x64
 
-e.g. V:\GoG Games\Cyberpunk 2077\bin\x64
-(For GOG Users)
+Path examples:
+GOG:
+D:\GoG Games\Cyberpunk 2077\bin\x64
 
-or for EGS users:
+EGS
 C:\Program Files\Cyberpunk 2077\bin\x64
 
-or for steam users:
+Steam:
 C:\Program Files (x86)\Steam\steamapps\common\Cyberpunk 2077\bin\x64
-or
 D:\SteamLibrary\steamapps\common\Cyberpunk 2077\bin\x64
 
-or for moneyless people
+Poor people:
 D:\Program Files\R.G. YourCrappyPirateReleaser\Cyberpunk2077\bin\x64
 
 3. Run "Cyberpunk2077_SMTPatcher.exe"
-4. Wait when patching is successful
-Patcher console window will say "SMT Pattern found and replaced. Cyberpunk 2077 patched successful." and "Press Any Key to Exit"
-You may just press any key and this window is closes or close this window.
-5. If patching is successful, launch game.
+4. Wait until patching is complete
+5. If patching was successful, then launch the game.
 ```
 
 # Uninstall patch
@@ -63,7 +61,7 @@ P.S. You should check if [viewing hidden files and folders is enabled](https://s
 
 # Troubleshooting & F.A.Q.
 
-* Question: Which version of Cyberpunk 2077 is need to patch?
+* Question: Which version of Cyberpunk is required for this patch?
 
 * Answer: Any (where pattern is working): 1.03/1.04 or newer, Steam/GoG/EGS and etc...
 
@@ -71,9 +69,9 @@ P.S. You should check if [viewing hidden files and folders is enabled](https://s
 
 * Answer: Install .NET Framework 4.8
 
-* Question: Patcher crashing, he is can't found a game exe.
+* Question: Patcher crashes, telling that it can't found a game exe.
 
-* Answer: Put file in correctly folder which specified in the documentation!
+* Answer: Move the patcher in the correct folder (more info above)
 
 # What's done
 
