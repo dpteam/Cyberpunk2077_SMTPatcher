@@ -34,7 +34,7 @@ Path examples:
 GOG:
 D:\GoG Games\Cyberpunk 2077\bin\x64
 
-EGS
+EGS:
 C:\Program Files\Cyberpunk 2077\bin\x64
 
 Steam:
@@ -84,5 +84,6 @@ P.S. You should check if [viewing hidden files and folders is enabled](https://s
 # Contributors and Testers
 [DartPower](https://github.com/dartpower)  
 [CyberMan](https://github.com/cyb3rm4n)  
+[Evgeny Malevich](https://github.com/m4l3vich)  
 [k1ryha1](https://vk.com/k1ryha1)  
 Srezi  
